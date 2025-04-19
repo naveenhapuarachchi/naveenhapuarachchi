@@ -23,7 +23,7 @@ Name: Naveen Hapuarachchi
 🤝 Collaboration: Open to working on innovative apps
 📫 Email: naveenhapuarachchi1111@gmail.com
 ⚡ Fun Fact: I speak fluent code & coffee!
-
+```
 🔧 Tech Toolbox
 <div align="center"> <img src="https://skillicons.dev/icons?i=flutter,androidstudio,dart,java,kotlin,js,html,css,react,git,github,mysql,firebase,figma,ps,vscode" /> </div>
 📈 GitHub Analytics
@@ -40,4 +40,4 @@ Name: Naveen Hapuarachchi
 "Dream it. Code it. Ship it."
 — Naveen Hapuarachchi
 
-<!-- BOTTOM DESIGN GIF OR SVG --> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p> ```
+<!-- BOTTOM DESIGN GIF OR SVG --> <p align="center"> <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" /> </p> 
